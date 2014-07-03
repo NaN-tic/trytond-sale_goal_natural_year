@@ -1,0 +1,107 @@
+# 
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:sale.goal,month_01:"
+msgid "Month 01"
+msgstr "Mes 01"
+
+msgctxt "field:sale.goal,month_02:"
+msgid "Month 02"
+msgstr "Mes 02"
+
+msgctxt "field:sale.goal,month_03:"
+msgid "Month 03"
+msgstr "Mes 03"
+
+msgctxt "field:sale.goal,month_04:"
+msgid "Month 04"
+msgstr "Mes 04"
+
+msgctxt "field:sale.goal,month_05:"
+msgid "Month 05"
+msgstr "Mes 05"
+
+msgctxt "field:sale.goal,month_06:"
+msgid "Month 06"
+msgstr "Mes 06"
+
+msgctxt "field:sale.goal,month_07:"
+msgid "Month 07"
+msgstr "Mes 07"
+
+msgctxt "field:sale.goal,month_08:"
+msgid "Month 08"
+msgstr "Mes 08"
+
+msgctxt "field:sale.goal,month_09:"
+msgid "Month 09"
+msgstr "Mes 09"
+
+msgctxt "field:sale.goal,month_10:"
+msgid "Month 10"
+msgstr "Mes 10"
+
+msgctxt "field:sale.goal,month_11:"
+msgid "Month 11"
+msgstr "Mes 11"
+
+msgctxt "field:sale.goal,month_12:"
+msgid "Month 12"
+msgstr "Mes 12"
+
+msgctxt "field:sale.goal.distribution,month_01:"
+msgid "Month 01"
+msgstr "Mes 01"
+
+msgctxt "field:sale.goal.distribution,month_02:"
+msgid "Month 02"
+msgstr "Mes 02"
+
+msgctxt "field:sale.goal.distribution,month_03:"
+msgid "Month 03"
+msgstr "Mes 03"
+
+msgctxt "field:sale.goal.distribution,month_04:"
+msgid "Month 04"
+msgstr "Mes 04"
+
+msgctxt "field:sale.goal.distribution,month_05:"
+msgid "Month 05"
+msgstr "Mes 05"
+
+msgctxt "field:sale.goal.distribution,month_06:"
+msgid "Month 06"
+msgstr "Mes 06"
+
+msgctxt "field:sale.goal.distribution,month_07:"
+msgid "Month 07"
+msgstr "Mes 07"
+
+msgctxt "field:sale.goal.distribution,month_08:"
+msgid "Month 08"
+msgstr "Mes 08"
+
+msgctxt "field:sale.goal.distribution,month_09:"
+msgid "Month 09"
+msgstr "Mes 09"
+
+msgctxt "field:sale.goal.distribution,month_10:"
+msgid "Month 10"
+msgstr "Mes 10"
+
+msgctxt "field:sale.goal.distribution,month_11:"
+msgid "Month 11"
+msgstr "Mes 11"
+
+msgctxt "field:sale.goal.distribution,month_12:"
+msgid "Month 12"
+msgstr "Mes 12"
+
+msgctxt "view:sale.goal.distribution:"
+msgid "Detail"
+msgstr "Detalle"
+
+msgctxt "view:sale.goal:"
+msgid "Detail"
+msgstr "Detalle"

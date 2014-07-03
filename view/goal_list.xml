@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!-- The COPYRIGHT file at the top level of this repository contains the full
+     copyright notices and license terms. -->
+<data>
+    <xpath expr="/tree/field[@name='amount']" position="after">
+        <field name="month_01"/>
+        <field name="month_02"/>
+        <field name="month_03"/>
+        <field name="month_04"/>
+        <field name="month_05"/>
+        <field name="month_06"/>
+        <field name="month_07"/>
+        <field name="month_08"/>
+        <field name="month_09"/>
+        <field name="month_10"/>
+        <field name="month_11"/>
+        <field name="month_12"/>
+    </xpath>
+</data>

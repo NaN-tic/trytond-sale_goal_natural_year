@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!-- The COPYRIGHT file at the top level of this repository contains the full
+     copyright notices and license terms. -->
+<data>
+    <xpath expr="/form/field[@name='lines']" position="replace">
+        <separator id="months" string="Detail" colspan="4"/>
+            <label name="month_01"/>
+            <field name="month_01"/>
+            <label name="month_02"/>
+            <field name="month_02"/>
+            <label name="month_03"/>
+            <field name="month_03"/>
+            <label name="month_04"/>
+            <field name="month_04"/>
+            <label name="month_05"/>
+            <field name="month_05"/>
+            <label name="month_06"/>
+            <field name="month_06"/>
+            <label name="month_07"/>
+            <field name="month_07"/>
+            <label name="month_08"/>
+            <field name="month_08"/>
+            <label name="month_09"/>
+            <field name="month_09"/>
+            <label name="month_10"/>
+            <field name="month_10"/>
+            <label name="month_11"/>
+            <field name="month_11"/>
+            <label name="month_12"/>
+            <field name="month_12"/>
+    </xpath>
+</data>

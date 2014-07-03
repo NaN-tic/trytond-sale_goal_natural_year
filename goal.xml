@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The COPYRIGHT file at the top level of this repository contains the full
+     copyright notices and license terms. -->
+<tryton>
+    <data>
+
+        <record model="ir.ui.view" id="sale_goal_view_form">
+            <field name="model">sale.goal</field>
+            <field name="name">goal_form</field>
+            <field name="inherit" ref="sale_goal.sale_goal_view_form"/>
+        </record>
+
+        <record model="ir.ui.view" id="sale_goal_view_list">
+            <field name="model">sale.goal</field>
+            <field name="name">goal_list</field>
+            <field name="inherit" ref="sale_goal.sale_goal_view_list"/>
+        </record>
+        <record model="ir.ui.view" id="sale_goal_distribution_view_form">
+            <field name="model">sale.goal.distribution</field>
+            <field name="name">distribution_form</field>
+            <field name="inherit"
+                ref="sale_goal.sale_goal_distribution_view_form"/>
+        </record>
+
+    </data>
+</tryton>
